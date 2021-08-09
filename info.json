@@ -1,0 +1,26 @@
+{
+  "name": "Theo Chang",
+  "website": "https://github.com/SlayerT26",
+  "linkedin": "https://www.linkedin.com/in/theodore-chang-5a529b176/",
+  "github": "SlayerT26",
+  "email": "hammad.malik@generalassemb.ly",
+  "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Vue",
+    "Node",
+    "Express",
+    "Mongodb",
+    "PostgreSQL",
+    "Python",
+    "Django",
+    "Wordpress",
+    "Drupal"
+  ],
+  "otherSkills": [
+    "Unagi",
+    "Five Finger Fillet",
+    "Bridge"
+  ]
+}
