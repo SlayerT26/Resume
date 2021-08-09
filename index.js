@@ -10,3 +10,4 @@ fs.readFile(__resume + '/info.json', 'utf8', function (err, data) {
     return data
   }
 })
+console
